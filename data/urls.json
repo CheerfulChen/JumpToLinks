@@ -1,0 +1,8 @@
+{
+  "urls": [
+    { "name": "百度", "url": "https://www.baidu.com" },
+    { "name": "京东", "url": "https://www.jd.com" },
+    { "name": "淘宝", "url": "https://www.taobao.com" },
+    { "name": "Bilibili", "url": "https://www.bilibili.com"}
+  ]
+}
